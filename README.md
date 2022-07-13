@@ -5,7 +5,7 @@ PyBer, a ride sharing company, has collected ride and city data from the markets
 
 ## Results:
 - **Total Rides**:
-    - With 1,625 rides, urban markets/cities comprise a little over two-thirds of PyBer's business. Suburban cities take a little over a quarter with rural markets just 5% with only 125 rides.
+    - With 1,625 rides, urban markets/cities comprise a little over two-thirds of PyBer's business. Suburban cities take a little over a quarter with rural markets at just 5% with only 125 rides.
 - **Total Drivers**:
     - Urban cities take an even larger share of PyBer's drivers (81%) than they do with rides. Suburban cities and rural cities have much smaller driver counts with 490 (16.5% of total) and 78 drivers (2.6% of total) respectively.
     - This means the driver imbalance between city type is much greater than it is for rides.
@@ -16,9 +16,9 @@ PyBer, a ride sharing company, has collected ride and city data from the markets
 - **Average Fare per Ride**:
     - Rural markets have the highest avg fare per ride at $34.62 followed by suburban markets at $30.97 and urban cities at $24.53
     - It makes logical sense that cities/towns classified as rural or suburban are more spread out meaning the average ride distances are likely greater.
-    - Longer ride distances should translate to more costly rides so higher fares.  
+    - Longer ride distances should translate to more costly/higher fare rides.  
 - **Average Fare per Driver**:
-    - Like with average fare per ride, rural markets lead with a $55.49 average fare per driver, followed by suburban at $39.50 and urban at $16.57
+    - Rural markets also lead with a $55.49 average fare per driver, followed by suburban at $39.50 and urban at $16.57.
     - This difference between city types is even more pronounced than it was for average fares per ride.
     - This more pronounced difference is due to the lack of drivers, particularly in rural markets.
 
@@ -35,9 +35,9 @@ PyBer, a ride sharing company, has collected ride and city data from the markets
 ## Summary:
 As one would expect, PyBer's rideshare business is centered in the urban markets. Urban cities often have higher population densities and lower personal car use, meaning a higher need for rideshare services. However, PyBer needs to focus on improving accessibility to rural and suburban markets if the company wishes to grow.
 
-### First Recommendation:
+#### First Recommendation:
 Offer drivers in rural areas a financial incentive to offset for the low number of rides they'll have. Some sort of base compensation or a higher per ride cut should entice more drivers to join and remain despite fewer customers and increased competition from other new drivers. Our analysis is revealing we have a lack of drivers in these markets. PyBer cannot get more demand in these cities if customers don't see available drivers nearby when they open our app.
-### Second Recommendation:
+#### Second Recommendation:
 Offer riders in rural and even suburban markets a discount on ride fees. These riders likely have longer ride distances and the costs of these longer rides could be a disincentive to repeat business. PyBer will make less money per ride, but increased overall revenues is the goal.
-### Third Recommendation:
+#### Third Recommendation:
 Conduct an advertising campaign in rural and suburban markets to highlight our push to increase access and affordability to customers while also highlighting our plan to help driver compensation. The campaign should result in more driver supply and ride demand. This will be a financial investment, but worth it when driver supply and ride demand increase. Then at that point, PyBer will have some momentum due to word-of-mouth advertising amongst people.
